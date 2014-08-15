@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Entidades", "Entidades\Entidades.vbproj", "{8C3AB1B6-C421-421F-8AAE-4A13B9358682}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WebSiteRecomendados", "WebSiteRecomendados\", "{F05DD5ED-0470-4FA9-99DF-E8EC47C9DEEF}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/WebSiteRecomendados"
+		Debug.AspNetCompiler.PhysicalPath = "WebSiteRecomendados\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\WebSiteRecomendados\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/WebSiteRecomendados"
+		Release.AspNetCompiler.PhysicalPath = "WebSiteRecomendados\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\WebSiteRecomendados\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "16526"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C3AB1B6-C421-421F-8AAE-4A13B9358682}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C3AB1B6-C421-421F-8AAE-4A13B9358682}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C3AB1B6-C421-421F-8AAE-4A13B9358682}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C3AB1B6-C421-421F-8AAE-4A13B9358682}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F05DD5ED-0470-4FA9-99DF-E8EC47C9DEEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F05DD5ED-0470-4FA9-99DF-E8EC47C9DEEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F05DD5ED-0470-4FA9-99DF-E8EC47C9DEEF}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{F05DD5ED-0470-4FA9-99DF-E8EC47C9DEEF}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		VisualSVNWorkingCopyRoot = .
+	EndGlobalSection
+EndGlobal
